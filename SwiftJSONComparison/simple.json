@@ -1,0 +1,15 @@
+
+{
+  "id": 1234567890,
+  "name": "NinomiYa",
+  "friends": ["Mike", "Jack"],
+  "edu": {
+    "high_school": "Anshan No.1 High School",
+    "collage": "BJTU"
+  },
+  "likes": {
+    "games": true,
+    "study": true,
+    "party": false
+  }
+}

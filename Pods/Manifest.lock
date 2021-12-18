@@ -1,0 +1,28 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - JASON (3.1.1)
+  - ObjectMapper (3.5.3)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - HandyJSON (~> 5.0.2)
+  - JASON
+  - ObjectMapper (~> 3.5)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HandyJSON
+    - JASON
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  JASON: f5f8e92b3f87f91e97d7748b1ed8de3121095844
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 62d94011c1a48c1a7e082bcf3438d0041d58e778
+
+COCOAPODS: 1.11.2
